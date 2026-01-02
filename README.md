@@ -37,18 +37,15 @@ Currently transitioning to full-time freelancing, serving 25+ clients while expl
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahope&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahope&theme=default" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahope&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahope&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahope&theme=default" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahope&theme=default" alt="Most Commit Language" />
 </p>
 
 ---
@@ -66,7 +63,7 @@ Currently transitioning to full-time freelancing, serving 25+ clients while expl
 ## 🌱 Currently Exploring
 
 - SaaS development with modern frameworks
-- Self-hosting
+- Wordpress Development
 - 3D printing and hardware projects
 - Android app development
 
@@ -84,6 +81,21 @@ Currently transitioning to full-time freelancing, serving 25+ clients while expl
   <img src="https://komarev.com/ghpvc/?username=mahope&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
+---
+
+## 🧑‍💻 Beyond the Code
+
+I'm a dad of three, married to Tea, and based in Denmark. When I'm not deep in WordPress or tinkering with new tech, you'll find me:
+
+- 🧗 **Bouldering** — My go-to way to clear my head and challenge myself
+- ⚜️ **Solaris** — Active in leadership roles in this Danish scouting organization
+- 🖨️ **3D Printing** — Currently experimenting with my Bambu Lab A1
+- 🌲 **Outdoors** — Exploring nature with family and scouts
+
+I believe in building sustainable businesses, maintaining work-life balance, and continuous personal growth.
+
+---
+
 <p align="center">
-  <sub>🧗 When I'm not coding, you'll find me bouldering or exploring nature with Solaris.</sub>
+  <i>Let's build something great together.</i>
 </p>
