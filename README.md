@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hello, I'm Mads 👋
 
-<!--
-**mahope/mahope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WordPress Developer & Freelancer** at [mahope.dk](https://mahope.dk)
 
-Here are some ideas to get you started:
+I build custom WordPress solutions with a focus on performance, scalability, and user experience. With a background in Global Business Informatics (IT University of Copenhagen), I combine technical expertise with business acumen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently transitioning to full-time freelancing, serving 25+ clients while exploring SaaS development and self-hosted infrastructure.
+
+---
+
+## 🛠️ Tech Stack
+
+### Daily Drivers
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahope&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahope&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahope&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+- **Custom WordPress Development** — Tailored solutions from theme development to complex plugin integrations
+- **WooCommerce Solutions** — Advanced e-commerce setups with custom payment flows and integrations
+- **Performance Optimization** — Speed audits, caching strategies, and hosting optimization
+- **Page Builder Expertise** — Breakdance, Bricks, and Elementor implementations
+- **Self-Hosted Infrastructure** — Docker-based deployments with Dokploy and Coolify
+
+---
+
+## 🌱 Currently Exploring
+
+- SaaS development with modern frameworks
+- Email marketing infrastructure (Listmonk)
+- 3D printing and hardware projects
+- Android app development
+
+---
+
+## 📫 Let's Connect
+
+[![Website](https://img.shields.io/badge/Website-mahope.dk-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://mahope.dk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madsholstjensen)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mads@mahope.dk)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahope&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <sub>🧗 When I'm not coding, you'll find me bouldering or exploring nature with Solaris.</sub>
+</p>
