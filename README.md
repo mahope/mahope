@@ -1,10 +1,36 @@
-# Hello, I'm Mads 👋
+<p align="center">
+  <img src="header-banner.svg" alt="Mads Holst Jensen - WordPress Developer & Freelancer" width="800"/>
+</p>
 
-**WordPress Developer & Freelancer** at [mahope.dk](https://mahope.dk)
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢_Available_for_projects-Let's_talk!-brightgreen?style=for-the-badge" alt="Available" />
+</p>
+
+<p align="center">
+  <a href="https://mahope.dk"><img src="https://img.shields.io/badge/25+-Clients_served-4facfe?style=flat-square&logo=wordpress&logoColor=white" alt="Clients" /></a>
+  <a href="https://mahope.dk"><img src="https://img.shields.io/badge/6+_Years-WordPress_Experience-0f3460?style=flat-square&logo=wordpress&logoColor=white" alt="Experience" /></a>
+  <a href="https://mahope.dk"><img src="https://img.shields.io/badge/Denmark-Based-red?style=flat-square&logo=google-maps&logoColor=white" alt="Location" /></a>
+</p>
+
+---
+
+## 👋 About Me
 
 I build custom WordPress solutions with a focus on performance, scalability, and user experience. With a background in Global Business Informatics (IT University of Copenhagen), I combine technical expertise with business acumen.
 
-Currently transitioning to full-time freelancing, serving 25+ clients while exploring SaaS development and self-hosted infrastructure.
+Currently running [mahope.dk](https://mahope.dk) full-time, serving 25+ clients while exploring SaaS development and self-hosted infrastructure.
+
+---
+
+## 🏆 Trusted By
+
+<p align="center">
+  <a href="https://annashojskole.dk"><img src="https://annashojskole.dk/wp-content/uploads/logo.png" alt="Annas Højskole" height="50" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://lifa.dk"><img src="https://lifa.dk/wp-content/uploads/lifa-logo.svg" alt="Lifa" height="50" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://plastsurgeon.com"><img src="https://plastsurgeon.com/wp-content/uploads/logo.png" alt="PlastSurgeon" height="50" /></a>
+</p>
 
 ---
 
@@ -37,6 +63,49 @@ Currently transitioning to full-time freelancing, serving 25+ clients while expl
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Annas Højskole</h3>
+      <p align="center">
+        <a href="https://annashojskole.dk" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Site-Visit-4facfe?style=for-the-badge" alt="Live Site"/>
+        </a>
+      </p>
+      <p align="center">Complete website rebuild with custom booking system, course management, and modern design using Breakdance Builder.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/Breakdance-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Custom_Booking-4facfe?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">PlastSurgeon.com</h3>
+      <p align="center">
+        <a href="https://plastsurgeon.com" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Site-Visit-4facfe?style=for-the-badge" alt="Live Site"/>
+        </a>
+      </p>
+      <p align="center">Medical practice website with advanced WooCommerce integration, appointment scheduling, and GDPR compliance.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+        <img src="https://img.shields.io/badge/GDPR-00a86b?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://mahope.dk/projekter">
+    <img src="https://img.shields.io/badge/📂_See_all_projects-mahope.dk-0f3460?style=for-the-badge" alt="All Projects"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -48,37 +117,53 @@ Currently transitioning to full-time freelancing, serving 25+ clients while expl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahope&theme=default" alt="Most Commit Language" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahope/mahope/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahope/mahope/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mahope/mahope/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
-## 🚀 What I Do
+## 🎯 What I Do
 
-- **Custom WordPress Development** — Tailored solutions from theme development to complex plugin integrations
-- **WooCommerce Solutions** — Advanced e-commerce setups with custom payment flows and integrations
-- **Performance Optimization** — Speed audits, caching strategies, and hosting optimization
-- **Page Builder Expertise** — Breakdance, Bricks, and Elementor implementations
-- **Self-Hosted Infrastructure** — Docker-based deployments with Dokploy and Coolify
+| Service | Description |
+|---------|-------------|
+| 🔧 **Custom WordPress Development** | Tailored solutions from theme development to complex plugin integrations |
+| 🛒 **WooCommerce Solutions** | Advanced e-commerce setups with custom payment flows and integrations |
+| ⚡ **Performance Optimization** | Speed audits, caching strategies, and hosting optimization |
+| 🎨 **Page Builder Expertise** | Breakdance, Bricks, and Elementor implementations |
+| 🖥️ **Self-Hosted Infrastructure** | Docker-based deployments with Dokploy and Coolify |
 
 ---
 
 ## 🌱 Currently Exploring
 
-- SaaS development with modern frameworks
-- Wordpress Development
-- 3D printing and hardware projects
-- Android app development
+- 💡 SaaS development with modern frameworks
+- 📧 Email marketing infrastructure (Listmonk)
+- 🖨️ 3D printing projects with Bambu Lab A1
+- 📱 Android app development
 
 ---
 
-## 📫 Let's Connect
-
-[![Website](https://img.shields.io/badge/Website-mahope.dk-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://mahope.dk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madsholstjensen)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mads@mahope.dk)
-
----
+## 📫 Let's Work Together
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahope&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://mahope.dk/kontakt">
+    <img src="https://img.shields.io/badge/📅_Book_a_call-Let's_talk_about_your_project-brightgreen?style=for-the-badge" alt="Book a call"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://mahope.dk">
+    <img src="https://img.shields.io/badge/Website-mahope.dk-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://linkedin.com/in/madsholstjensen">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mads@mahope.dk">
+    <img src="https://img.shields.io/badge/Email-mads@mahope.dk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
@@ -97,5 +182,9 @@ I believe in building sustainable businesses, maintaining work-life balance, and
 ---
 
 <p align="center">
-  <i>Let's build something great together.</i>
+  <img src="https://komarev.com/ghpvc/?username=mahope&color=4facfe&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer"/>
 </p>
