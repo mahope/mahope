@@ -25,11 +25,11 @@ Currently running [mahope.dk](https://mahope.dk) full-time, serving 25+ clients 
 ## 🏆 Trusted By
 
 <p align="center">
-  <a href="https://annashojskole.dk"><img src="https://annashojskole.dk/wp-content/uploads/logo.png" alt="Annas Højskole" height="50" /></a>
+  <a href="https://annashojskole.dk"><img src="https://annashojskole.dk/wp-content/uploads/2024/05/Annashojskole-logo.svg" alt="Annas Højskole" height="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://lifa.dk"><img src="https://lifa.dk/wp-content/uploads/lifa-logo.svg" alt="Lifa" height="50" /></a>
+  <a href="https://lifa.dk"><img src="https://lifa.dk/wp-content/uploads/2025/06/logo_blaa-scaled.png" alt="Lifa" height="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://plastsurgeon.com"><img src="https://plastsurgeon.com/wp-content/uploads/logo.png" alt="PlastSurgeon" height="50" /></a>
+  <a href="https://plastsurgeon.com"><img src="https://plastsurgeon.com/wp-content/themes/plastsurgeon/assets/images/logo.svg" alt="PlastSurgeon" height="50" /></a>
 </p>
 
 ---
