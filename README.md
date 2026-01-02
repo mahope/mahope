@@ -66,7 +66,7 @@ Currently transitioning to full-time freelancing, serving 25+ clients while expl
 ## 🌱 Currently Exploring
 
 - SaaS development with modern frameworks
-- Email marketing infrastructure (Listmonk)
+- Self-hosting
 - 3D printing and hardware projects
 - Android app development
 
