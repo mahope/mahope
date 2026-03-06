@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mahoje.dk/da/kontakt"><img src="https://img.shields.io/badge/📅_Book_a_free_15--min_call-Lets_talk!-22c55e?style=for-the-badge" alt="Book a call" /></a>
+  <a href="https://cal.com/mahope/15min"><img src="https://img.shields.io/badge/📅_Book_a_free_15--min_call-Lets_talk!-22c55e?style=for-the-badge" alt="Book a call" /></a>
   &nbsp;
   <a href="https://audit.mahoje.dk"><img src="https://img.shields.io/badge/⚡_Free_website_audit-Check_your_site-4facfe?style=for-the-badge" alt="Free Audit" /></a>
 </p>
@@ -63,7 +63,7 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
     <td align="center" width="33%">
       <h3>🚀 Custom Web Apps</h3>
       <p>Need a custom SaaS product, dashboard, or web application? Full-stack development with Next.js, React, TypeScript, Stripe, and modern APIs.</p>
-      <a href="https://mahoje.dk/da/kontakt">
+      <a href="https://cal.com/mahope/15min">
         <img src="https://img.shields.io/badge/Lets_build_it-Custom_App-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Custom Apps"/>
       </a>
     </td>
@@ -283,7 +283,7 @@ I believe in building sustainable businesses, maintaining work-life balance, and
 </p>
 
 <p align="center">
-  <a href="https://mahoje.dk/da/kontakt">
+  <a href="https://cal.com/mahope/15min">
     <img src="https://img.shields.io/badge/📅_Book_a_free_15--min_call-Lets_talk_about_your_project-22c55e?style=for-the-badge" alt="Book a call"/>
   </a>
   &nbsp;
