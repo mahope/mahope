@@ -109,8 +109,8 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
       <p align="center">Complete website rebuild with custom booking system, course management, and modern design using Bricks Builder.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bricks-FF6B6B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Custom_Booking-4facfe?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bricks_Builder-FF6B6B?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Custom_Booking-4facfe?style=flat-square&logoColor=white" />
       </p>
     </td>
     <td width="50%">
@@ -123,8 +123,8 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
       <p align="center">International learning platform for plastic surgeons with handbook, courses, case competition, and member system.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bricks-FF6B6B?style=flat-square" />
-        <img src="https://img.shields.io/badge/LMS-00a86b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bricks_Builder-FF6B6B?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/LMS-00a86b?style=flat-square&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -186,12 +186,21 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahope&theme=default" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahope&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahope&theme=default" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahope&theme=default" alt="Most Commit Language" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahope&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahope&theme=github" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahope&theme=github" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahope&theme=github&utcOffset=1" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahope&theme=github" alt="Stats" />
 </p>
 
 <picture>
