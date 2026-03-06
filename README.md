@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://mahoje.dk"><img src="https://img.shields.io/badge/25+-Clients_served-4facfe?style=flat-square&logo=wordpress&logoColor=white" alt="Clients" /></a>
-  <a href="https://mahoje.dk"><img src="https://img.shields.io/badge/6+_Years-WordPress_Experience-0f3460?style=flat-square&logo=wordpress&logoColor=white" alt="Experience" /></a>
+  <a href="https://mahoje.dk"><img src="https://img.shields.io/badge/30+-Clients_served-4facfe?style=flat-square&logo=wordpress&logoColor=white" alt="Clients" /></a>
+  <a href="https://mahoje.dk"><img src="https://img.shields.io/badge/15+_Years-WordPress_Experience-0f3460?style=flat-square&logo=wordpress&logoColor=white" alt="Experience" /></a>
   <a href="https://mahoje.dk"><img src="https://img.shields.io/badge/Denmark-Based-red?style=flat-square&logo=google-maps&logoColor=white" alt="Location" /></a>
 </p>
 
@@ -20,7 +20,7 @@
 
 I build custom WordPress solutions and modern web applications with a focus on performance, scalability, and user experience. With a background in Global Business Informatics (IT University of Copenhagen), I combine technical expertise with business acumen.
 
-Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients while building SaaS products and open-source tools.
+Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 30+ clients while building SaaS products and open-source tools.
 
 ---
 
