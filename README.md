@@ -127,6 +127,8 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
         <img src="https://img.shields.io/badge/LMS-00a86b?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">Dictation App</h3>
       <p align="center">
@@ -138,6 +140,20 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Speech_Recognition-4facfe?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">QRtool.dk</h3>
+      <p align="center">
+        <a href="https://qrtool.dk" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Site-Visit-4facfe?style=for-the-badge" alt="Live Site"/>
+        </a>
+      </p>
+      <p align="center">Free QR code generator with WiFi, vCard, and batch support. Open source.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
     </td>
   </tr>
