@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="header-banner.svg" alt="Mads Holst Jensen - WordPress Developer & Freelancer" width="800"/>
+  <img src="header-banner.svg" alt="Mads Holst Jensen - WordPress Expert · Custom Web Apps · SaaS Development" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢_Available_for_projects-Let's_talk!-brightgreen?style=for-the-badge" alt="Available" />
+  <a href="https://mahoje.dk/da/kontakt"><img src="https://img.shields.io/badge/📅_Book_a_free_15--min_call-Let's_talk!-22c55e?style=for-the-badge" alt="Book a call" /></a>
+  &nbsp;
+  <a href="https://audit.mahoje.dk"><img src="https://img.shields.io/badge/⚡_Free_website_audit-Check_your_site-4facfe?style=for-the-badge" alt="Free Audit" /></a>
 </p>
 
 <p align="center">
@@ -22,6 +24,19 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
 
 ---
 
+## 💬 What Clients Say
+
+> *"Mads delivered a complete website rebuild with a custom booking system and course management — on time and with excellent communication throughout."*
+> — **Annas Højskole**
+
+> *"Professional, fast, and deeply knowledgeable. Mads built our international learning platform with complex LMS integration and multi-language support."*
+> — **PlastSurgeon.com**
+
+> *"Mads optimized our WooCommerce store and handles ongoing maintenance. Our site is faster, more secure, and easier to manage."*
+> — **Indretning med Planter**
+
+---
+
 ## 🏆 Trusted By
 
 <p align="center">
@@ -31,6 +46,36 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://plastsurgeon.com"><img src="https://plastsurgeon.com/wp-content/themes/plastsurgeon/assets/images/logo.svg" alt="PlastSurgeon" height="50" /></a>
 </p>
+
+---
+
+## 🎯 How I Can Help You
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔧 WordPress</h3>
+      <p>Need a fast, secure, and scalable WordPress site? From custom themes and plugins to WooCommerce, Bricks Builder, and performance optimization.</p>
+      <a href="https://mahoje.dk/da/wordpress-ekspert">
+        <img src="https://img.shields.io/badge/Learn_more-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 Custom Web Apps</h3>
+      <p>Need a custom SaaS product, dashboard, or web application? Full-stack development with Next.js, React, TypeScript, Stripe, and modern APIs.</p>
+      <a href="https://mahoje.dk/da/kontakt">
+        <img src="https://img.shields.io/badge/Let's_build_it-Custom_App-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Custom Apps"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ Performance Audit</h3>
+      <p>Is your site slow? Get a free audit with actionable recommendations for speed, SEO, Core Web Vitals, and security improvements.</p>
+      <a href="https://audit.mahoje.dk">
+        <img src="https://img.shields.io/badge/Get_free_audit-Your_Site-22c55e?style=for-the-badge" alt="Free Audit"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -109,8 +154,8 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
       <p align="center">Complete website rebuild with custom booking system, course management, and modern design using Bricks Builder.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bricks_Builder-FF6B6B?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Custom_Booking-4facfe?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bricks_Builder-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Custom_Booking-4facfe?style=flat-square" />
       </p>
     </td>
     <td width="50%">
@@ -123,8 +168,8 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
       <p align="center">International learning platform for plastic surgeons with handbook, courses, case competition, and member system.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bricks_Builder-FF6B6B?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/LMS-00a86b?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bricks_Builder-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/LMS-00a86b?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -161,7 +206,7 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
 
 <p align="center">
   <a href="https://mahoje.dk/portfolio">
-    <img src="https://img.shields.io/badge/📂_See_all_projects-mahoje.dk-0f3460?style=for-the-badge" alt="All Projects"/>
+    <img src="https://img.shields.io/badge/📂_See_all_17+_projects-mahoje.dk/portfolio-0f3460?style=for-the-badge" alt="All Projects"/>
   </a>
 </p>
 
@@ -211,20 +256,6 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
 
 ---
 
-## 🎯 What I Do
-
-| Service | Description |
-|---------|-------------|
-| 🔧 **Custom WordPress Development** | Tailored solutions from theme development to complex plugin integrations |
-| 🛒 **WooCommerce Solutions** | Advanced e-commerce setups with custom payment flows and integrations |
-| ⚡ **Performance Optimization** | Speed audits, caching strategies, and Core Web Vitals tuning |
-| 🎨 **Page Builder Expertise** | Bricks Builder, Breakdance, and Elementor implementations |
-| 🚀 **SaaS & Web Apps** | Full-stack development with Next.js, React, TypeScript, and Stripe |
-| 🤖 **AI & Automation** | AI visibility optimization, MCP servers, and workflow automation |
-| 🖥️ **Self-Hosted Infrastructure** | Docker-based deployments with Dokploy and Coolify |
-
----
-
 ## 🌱 Currently Building
 
 - ⏱️ **TimeTrack.dk** — SaaS time tracking with Stripe billing
@@ -234,11 +265,30 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
 
 ---
 
-## 📫 Let's Work Together
+## 🧑‍💻 Beyond the Code
+
+I'm a dad of three, married to Tea, and based in Denmark. When I'm not deep in WordPress or tinkering with new tech, you'll find me:
+
+- 🧗 **Bouldering** — My go-to way to clear my head and challenge myself
+- ⚜️ **Solaris** — Active in leadership roles in this Danish scouting organization
+- 🖨️ **3D Printing** — Experimenting with my Bambu Lab A1
+- 🌲 **Outdoors** — Exploring nature with family and scouts
+
+I believe in building sustainable businesses, maintaining work-life balance, and continuous personal growth.
+
+---
+
+<p align="center">
+  <h3 align="center">Ready to build something great?</h3>
+</p>
 
 <p align="center">
   <a href="https://mahoje.dk/da/kontakt">
-    <img src="https://img.shields.io/badge/📅_Book_a_call-Let's_talk_about_your_project-brightgreen?style=for-the-badge" alt="Book a call"/>
+    <img src="https://img.shields.io/badge/📅_Book_a_free_15--min_call-Let's_talk_about_your_project-22c55e?style=for-the-badge" alt="Book a call"/>
+  </a>
+  &nbsp;
+  <a href="https://audit.mahoje.dk">
+    <img src="https://img.shields.io/badge/⚡_Get_a_free_site_audit-Check_your_performance-4facfe?style=for-the-badge" alt="Free Audit"/>
   </a>
 </p>
 
@@ -253,19 +303,6 @@ Currently running [mahoje.dk](https://mahoje.dk) full-time, serving 25+ clients 
     <img src="https://img.shields.io/badge/Email-mads@mahoje.dk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-## 🧑‍💻 Beyond the Code
-
-I'm a dad of three, married to Tea, and based in Denmark. When I'm not deep in WordPress or tinkering with new tech, you'll find me:
-
-- 🧗 **Bouldering** — My go-to way to clear my head and challenge myself
-- ⚜️ **Solaris** — Active in leadership roles in this Danish scouting organization
-- 🖨️ **3D Printing** — Experimenting with my Bambu Lab A1
-- 🌲 **Outdoors** — Exploring nature with family and scouts
-
-I believe in building sustainable businesses, maintaining work-life balance, and continuous personal growth.
 
 ---
 
